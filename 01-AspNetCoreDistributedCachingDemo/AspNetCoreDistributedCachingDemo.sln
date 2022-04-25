@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreDistributedCachingDemo", "AspNetCoreDistributedCachingDemo.csproj", "{9BA691D4-7B95-4251-BB13-54C8951E5DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA691D4-7B95-4251-BB13-54C8951E5DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA691D4-7B95-4251-BB13-54C8951E5DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA691D4-7B95-4251-BB13-54C8951E5DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA691D4-7B95-4251-BB13-54C8951E5DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92C0BFED-687E-4B4F-ADC8-E4D850356087}
+	EndGlobalSection
+EndGlobal
